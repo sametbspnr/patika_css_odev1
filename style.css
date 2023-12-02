@@ -1,0 +1,37 @@
+body {
+    background-color: #EEE2DE;
+    margin: 0 auto;
+    text-align: center;
+    width: 960px;
+    position: unset;
+}
+
+
+h1 {
+    color: #2B2A4C;
+    font-family: cursive;
+}
+
+h2 {
+    color: #B31312;
+}
+
+p {
+    color: #EA906C;
+}
+
+img {
+    width: 500px;
+    height: 100%;
+}
+
+li {
+    padding: 5px;
+    list-style-type: none;
+    list-style-position: inside;
+}
+
+.navbar li {
+    list-style: none;
+    display: inline;
+}
